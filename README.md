@@ -1,5 +1,23 @@
-# University Flow Anchor (Neuro-Study Planner)
+# Neuro Study Map
 
-A low-friction, calm academic planner web application designed specifically with neurodivergent student workflows (ADHD, autism, dyslexia, etc.) in mind. 
+A visual planning platform designed to help neurodivergent students organize university assignments and exams.
 
-Traditional productivity apps often rely on rigid, text-heavy lists and complex time-blocking that can cause severe cognitive overload and executive dysfunction. This project aims to provide a visual, forgiving, and clutter-free space to map out a university semester.
+## Features
+
+- Assignment tracking
+- Visual roadmap
+- Progress tracking
+- Time estimation
+- Neurodivergent-friendly interface
+
+## Installation
+
+```bash
+npm install
+
+npm run dev
+```
+
+Open:
+
+http://localhost:3000
